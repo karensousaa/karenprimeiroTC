@@ -1,1 +1,8 @@
+.foto{
+width: 30%
+}
 
+body{
+    background-color: crimson
+    display: flex;
+}
